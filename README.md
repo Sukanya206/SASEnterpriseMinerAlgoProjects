@@ -17,3 +17,9 @@ Clustering algorithm:
 
 
 Clustering, Clustering using SAS Enterprise Miner and Mall_Customers
+
+
+KNN ALgorithm:
+
+
+KNN, KNN using SAS Enterprise Miner and diabetes
